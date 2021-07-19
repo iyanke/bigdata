@@ -1,20 +1,4 @@
-вggcommit 5e1602e3c6ed16e12bfe07e685629d0b86840778
-Author: Inna Yankelevich <inna_yan20@inbox.ru>
-Date:   Wed Dec 9 19vv:16:52 2020 +0300
-gfg
-    te  st123
 
-commffit 6b97a1553ef9f041c1e3bbbf76564e7df894f9b0
-Author: Inna Yankelevich <inna_yan20@inbox.ru>
-Date:   Wed Dec 9 19:14:23 2020 +0300
-fgfg
-    master
-йцйц
-commit 9036b4b8a0c80d524e005a72958bae72ee2bac18
-Author: Inna Yankelevich <inna_yan20@inbox.ru>
-Date:   Wed Dec 9 18:04:07 2020 +0300
-вв
-    branch64rr
 sdsdwewew
 commit d34b8a72c5c2f33af2eced7daaae9fec2a771585
 Author: Inna Yankelevich <inna_yan20@inbox.ru>
