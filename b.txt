@@ -25,7 +25,7 @@ Date:   Wed Dec 9 16:16:30 2020 +0300
     branch52r
 
 commit 3afe8a9645aadc9d197f1b18e7d21967f6b0edaa
-Author: Inna Yankelevich <inna_yan20@inbox.ru>
+Author: Inna Yankelevich <inna_yan20@inbox.ru>ee
 Date:   Wed Dec 9 16:15:59 2020 +0300
 
     branch51
