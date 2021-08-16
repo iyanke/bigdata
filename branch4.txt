@@ -6,7 +6,7 @@ Date:   Tue Dec 15 16:30:19 2020 +0300
 
 commit 64cf8c2fdfabe7d32c2dca61fcda9c7642f5f357
 Author: Inna Yankelevich <inna_yan20@inbox.ru>
-Date:   Tue Dec 15 16:28:43 2020 +0300
+Date:   Tue Dec xxx15 16:28:43 2020 +0300
 
     master6
 
